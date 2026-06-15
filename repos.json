@@ -480,6 +480,10 @@
             "type": "gitea",
             "url": "https://git.chiasson.cloud/Olivier/nur-packages"
         },
+        "chiefnoah": {
+            "github-contact": "chiefnoah",
+            "url": "https://github.com/chiefnoah/ngp-nur"
+        },
         "chigyutendies": {
             "github-contact": "pillowtrucker",
             "url": "https://github.com/pillowtrucker/tooo000oooot"
